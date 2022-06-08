@@ -1,9 +1,13 @@
 Ta tudo torto, mas so pra mostrar o que vai precisar mesmo.
 
-Use mysql, download wampserver and mySQLWorkBench 
-
+Requisitos :
+----------------------------------------------------------------------------
+Usa o banco MySQL, WampServer, MySQLWorkBench e Netbeans 8.2 pra rodar o projeto.
 Download 2 Libs( bibliotecas ) : mysql-connector-java-8.0.29.jar ( conexao com o banco ) e rs2xml.jar ( mexer com as tabelas )
+----------------------------------------------------------------------------
 
+Banco de dados :
+----------------------------------------------------------------------------
 Executa um por um, de cima pra baixo, pra criar o banco e as tabelas necessárias.
 
 create database mercadoGod character set utf8 collate utf8_general_ci;
