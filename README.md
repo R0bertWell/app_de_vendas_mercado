@@ -2,7 +2,10 @@ Ta tudo torto, mas so pra mostrar o que vai precisar mesmo.
 
 Requisitos :
 ----------------------------------------------------------------------------
-	Usa o banco MySQL, WampServer, MySQLWorkBench e Netbeans 8.2 pra rodar o projeto.
+	Banco: MySQL, 
+	Server up: WampServer pra por o servidor do banco MySql on na máquina local
+	Banco Management: MySQLWorkBench pra mexer mais bonitinho com o sql
+	IDE: Netbeans 8.2 pra rodar o projeto.
 	--
 	Download 2 Libs( *bibliotecas* ) : **mysql-connector-java-8.0.29.jar** ( conexao com o banco ) e **rs2xml.jar** ( mexer com as tabelas )
 ----------------------------------------------------------------------------
