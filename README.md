@@ -7,9 +7,8 @@ Requisitos :
 	Download 2 Libs( *bibliotecas* ) : **mysql-connector-java-8.0.29.jar** ( conexao com o banco ) e **rs2xml.jar** ( mexer com as tabelas )
 ----------------------------------------------------------------------------
 
-Banco de dados :
+Banco de dados : Executa um por um
 ----------------------------------------------------------------------------
-	Executa um por um, de cima pra baixo, pra criar o banco e as tabelas necessárias.
 
 	create database mercadoGod character set utf8 collate utf8_general_ci;
 
