@@ -7,7 +7,10 @@ Requisitos :
 	Banco Management: MySQLWorkBench pra mexer mais bonitinho com o sql
 	IDE: Netbeans 8.2 pra rodar o projeto.
 	--
-	Download 2 Libs( *bibliotecas* ) : **mysql-connector-java-8.0.29.jar** ( conexao com o banco ) e **rs2xml.jar** ( mexer com as tabelas )
+	Dentro no netbeans nas bibliotecas coloca esses 2 jars ( libs )
+	Libs( *bibliotecas* ) : 
+		mysql-connector-java-8.0.29.jar ( conexao com o banco ) 
+		rs2xml.jar ( mexer com as tabelas )
 ----------------------------------------------------------------------------
 
 Banco de dados : Executa um por um no MySQLWorkBench
