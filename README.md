@@ -1,4 +1,6 @@
 Use mysql, download wampserver and mySQLWorkBench
+Download 2 Libs( bibliotecas ) : mysql-connector-java-8.0.29.jar ( conexao com o banco ) e rs2xml.jar ( mexer com as tabelas )
+
 Execute one by one, up to down
 
 create database mercadoGod character set utf8 collate utf8_general_ci;
